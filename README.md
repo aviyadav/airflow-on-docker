@@ -24,7 +24,7 @@ curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.1.2/docker-compose.y
 
 ## [URL]
 
-http://localhost:8090
+http://localhost:8090 (default is 8080, i have changed in yml file)
 
   airflow/airflow
 
